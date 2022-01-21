@@ -20,8 +20,8 @@ class Mosaic {
 		this.height = 0
 		this.uw = 1
 		this.uh = 1
-		this.nw = (options.nw || 50) / 200
-		this.nh = (options.nh || 50) / 200
+		this.nw = (options.nw || 25) / 200
+		this.nh = (options.nh || 25) / 200
 
 		this.canvas = document.createElement('canvas')
 		this.ctx = this.canvas.getContext('2d')
