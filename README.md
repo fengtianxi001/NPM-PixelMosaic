@@ -21,7 +21,7 @@ npm i pixel-mosaic
 
 ## 2. Loading
 ```javascript
-import pixelMosaic from "pixel-mosaic"
+import Mosaic from "pixel-mosaic"
 ```
 
 ## 3. Usage
@@ -45,7 +45,7 @@ const mosaic = new Mosaic(options)
 
 ## 4. Example
 ```javascript
-import pixelMosaic from "pixel-mosaic"
+import Mosaic from "pixel-mosaic"
 const src = require("./assets/123.png")
 const mosaic = new Mosaic({
   src,
