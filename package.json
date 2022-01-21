@@ -1,0 +1,33 @@
+{
+	"name": "Npm-Pixel-Mosaic",
+	"version": "1.0.0",
+	"description": "Pixelate the Image",
+	"main": "./dist/index.js",
+	"scripts": {
+		"build": "tsc",
+		"run": "tsc && webpack serve",
+		"example": "webpack serve",
+		"watch": "nodemon --exec npm run build --watch ./lib/index.ts"
+	},
+	"author": "fengtianxi001",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^17.0.8",
+		"html-webpack-plugin": "^5.3.1",
+		"webpack": "^5.31.2",
+		"webpack-cli": "^4.6.0",
+		"webpack-dev-server": "^3.11.2",
+		"copy-webpack-plugin": "^8.1.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fengtianxi001/Npm-Pixel-Mosaic.git"
+	},
+	"bugs": {
+		"url": "https://github.com/fengtianxi001/Npm-Pixel-Mosaic/issues"
+	},
+	"homepage": "https://github.com/fengtianxi001/Npm-Pixel-Mosaic#readme",
+	"dependencies": {
+		"nodemon": "^2.0.15"
+	}
+}
