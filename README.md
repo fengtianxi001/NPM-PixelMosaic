@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/stars/fengtianxi001/Npm-Pixel-Mosaic">
 </div>
 
-<img src="https://raw.githubusercontent.com/fengtianxi001/Npm-Pixel-Mosaic/master/screenshot/screenshot.png">
+<img style="margin-top:30px" src="https://raw.githubusercontent.com/fengtianxi001/Npm-Pixel-Mosaic/master/screenshot/screenshot.png">
 
 
 ## 1. Installation
