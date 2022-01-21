@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/github/stars/fengtianxi001/Npm-Pixel-Mosaic">
 </div>
 
+<img src="https://raw.githubusercontent.com/fengtianxi001/Npm-Pixel-Mosaic/master/screenshot/screenshot.png">
+
 
 ## 1. Installation
 ```shell
@@ -32,7 +34,7 @@ const mosaic = new Mosaic(options)
 	  - The value should be less than 100
 	  - default: 25
 
-	- ny<number\>
+	- nh<number\>
 	    - Pixelation degree of y-axis(Unit: percentage)
 	  - The value should be less than 100
 	  - default: 25
