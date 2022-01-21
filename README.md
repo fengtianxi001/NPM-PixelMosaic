@@ -1,4 +1,4 @@
-# 🚀 Npm-Pixel-Character
+# 🚀 Npm-Pixel-Mosaic
 
 <div>
   <img src="https://img.shields.io/github/languages/top/fengtianxi001/Npm-Pixel-Mosaic">
